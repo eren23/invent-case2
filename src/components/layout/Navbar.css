@@ -1,0 +1,11 @@
+.Dropdown {
+  border: 1px solid #e6e6e6;
+  border-radius: 3px;
+  margin-right: 5px;
+  margin-top: 2px;
+}
+
+.dropdown-menu {
+  height: 150px;
+  overflow-y: scroll;
+}
